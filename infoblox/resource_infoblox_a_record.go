@@ -73,8 +73,6 @@ func resourceARecordCreate(d *schema.ResourceData, m interface{}) error {
 
 	ea := make(ibclient.EA)
 
-	ea["VM Name"] = vmName
-
 	if vmID != "" {
 		ea["VM ID"] = vmID
 	}
