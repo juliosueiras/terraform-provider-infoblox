@@ -62,7 +62,6 @@ func NewObjectManager(connector IBConnector, cmpType string, tenantID string) *O
 
 func (objMgr *ObjectManager) getBasicEA(cloudAPIOwned Bool) EA {
 	ea := make(EA)
-	ea["Tenant ID"] = objMgr.tenantID
 	return ea
 }
 

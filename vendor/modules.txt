@@ -179,7 +179,7 @@ github.com/hashicorp/terraform/version
 github.com/hashicorp/terraform-config-inspect/tfconfig
 # github.com/hashicorp/yamux v0.0.0-20180604194846-3520598351bb
 github.com/hashicorp/yamux
-# github.com/infobloxopen/infoblox-go-client v0.8.1-0.20190830062100-dd50c409ab6d => github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116163543-134b465bbc71
+# github.com/infobloxopen/infoblox-go-client v0.8.1-0.20190830062100-dd50c409ab6d => github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116175253-63f91a81fe79
 github.com/infobloxopen/infoblox-go-client
 # github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
 github.com/jmespath/go-jmespath

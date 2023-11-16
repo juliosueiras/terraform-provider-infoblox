@@ -184,8 +184,8 @@ github.com/json-iterator/go v1.1.5/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCV
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/jtolds/gls v4.2.1+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
-github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116163543-134b465bbc71 h1:Nsnj3V5MG26UhL6cQyP2wWjyYrraJ4dwGtX8OdPVqCA=
-github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116163543-134b465bbc71/go.mod h1:39K2rfzbQqwFgqelZWBTdxj0guEPEnf0Q3C/xc+4Yww=
+github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116175253-63f91a81fe79 h1:SBqZoDmPoqCbfp7aJwKaZZXw3Tz4G73M/8ipKZEvwzs=
+github.com/juliosueiras/infoblox-go-client v0.8.1-0.20231116175253-63f91a81fe79/go.mod h1:39K2rfzbQqwFgqelZWBTdxj0guEPEnf0Q3C/xc+4Yww=
 github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
 github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
 github.com/keybase/go-crypto v0.0.0-20161004153544-93f5b35093ba/go.mod h1:ghbZscTyKdM07+Fw3KSi0hcJm+AlEUWj8QLlPtijN/M=
