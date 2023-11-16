@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/terraform/helper/schema"
-	ibclient "github.com/juliosueiras/infoblox-go-client"
+	ibclient "github.com/infobloxopen/infoblox-go-client"
 )
 
 func resourceIPAssociation() *schema.Resource {

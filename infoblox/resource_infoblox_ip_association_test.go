@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/hashicorp/terraform/helper/resource"
 	"github.com/hashicorp/terraform/terraform"
-	"github.com/juliosueiras/infoblox-go-client"
+	"github.com/infobloxopen/infoblox-go-client"
 	"testing"
 )
 
