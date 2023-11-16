@@ -64,8 +64,6 @@ func resourceARecordCreate(d *schema.ResourceData, m interface{}) error {
 	ipAddr := d.Get("ip_addr").(string)
 	cidr := d.Get("cidr").(string)
 	vmID := d.Get("vm_id").(string)
-	//This is for vm name
-	vmName := d.Get("vm_name").(string)
 	zone := d.Get("zone").(string)
 	dnsView := d.Get("dns_view").(string)
 	tenantID := d.Get("tenant_id").(string)
